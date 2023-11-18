@@ -273,6 +273,7 @@ footer span{
     .section-2, .section-3, .section-4 {
         flex-direction: column;
         width: auto;
+        padding: 80px 100px;
     }
     /* bg mobile img  */
     .mobile-img{
